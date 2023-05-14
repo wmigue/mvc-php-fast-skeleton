@@ -1,3 +1,3 @@
 <?php
-    require('Controller/verUsuarios.controller.php');
+    require('Controllers/verUsuarios.controller.php');
 ?>

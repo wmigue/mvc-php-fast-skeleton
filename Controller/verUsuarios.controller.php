@@ -1,6 +1,6 @@
 <?php
 
-require('Model/Conexion.php');
+require('Models/Conexion.php');
 
 $con = new Conexion();
 
